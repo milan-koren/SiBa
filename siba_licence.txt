@@ -1,7 +1,7 @@
 http://github.com/
 
 SiBa - Simple Backup
-Copyright (c) Milan Koren, 2018
+Copyright (c) Milan Koren, 2018-2019
 
 END USER LICENCE AGREEMENT
 
