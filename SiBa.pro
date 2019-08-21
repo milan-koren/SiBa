@@ -32,3 +32,7 @@ HEADERS += \
 
 FORMS += \
         mainwindow.ui
+
+DISTFILES += \
+    source.siba \
+    target.siba
