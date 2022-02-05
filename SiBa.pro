@@ -24,15 +24,19 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 
 SOURCES += \
+        copier.cpp \
         main.cpp \
         mainwindow.cpp
 
 HEADERS += \
+        copier.h \
         mainwindow.h
 
 FORMS += \
         mainwindow.ui
 
 DISTFILES += \
+    licence.txt \
     source.siba \
-    target.siba
+    target.siba \
+    README.md

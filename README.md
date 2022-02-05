@@ -6,4 +6,4 @@ The source directory is not modified.
 
 To prevent accidental overwriting of files and directories, it is advisable to place a blank file called "source.siba" in the source directory and a blank file named "target.siba" in the target directory. The program distinguishes the source and target directory by the presence of these files.
 
-Build in Qt Creator 4.7.0
+Build in Qt Creator 4.15.2
